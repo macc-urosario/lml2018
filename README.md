@@ -13,8 +13,8 @@ kNN and logistic regression
 
 ---
 
--  **Lecture 5** 	Trees, simple decision trees, Bagging, RF, Boosting
-- [**Lecture 6** 	Unsupervised Clustering - kmeans, Mixture Models ]
+-  **Lecture 5** 	Trees, simple decision trees, 
+-  **Lecture 6** 	Bagging, RF, Boosting 
 
 ---
 - **Lecture 7** Deep Neural Nets - Fully connected, design choices
