@@ -3,6 +3,9 @@
 
 Hola Mundo
 
+El dia es azul
+
+
 - **Lecture 1**:	Introduction to the course, machine learning and statistical learning. Introduction to ML concepts and basic statistical thinking
 
 - **Lecture 2** 	Regression, knn and linear regression, overfitting and model selection. Multi-regression, poly regression, cross validation.
